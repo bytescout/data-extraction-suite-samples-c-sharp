@@ -1,0 +1,271 @@
+## Index of source code examples:
+
+\Acquire barcode from scanner and decode with barcode reader sdk
+\Add area chart with spreadsheet sdk
+\Add background image with spreadsheet sdk
+\Add bar chart with spreadsheet sdk
+\Add bubble chart with spreadsheet sdk
+\Add column chart with spreadsheet sdk
+\Add columns into existing spreadsheet with spreadsheet sdk
+\Add combination chart with spreadsheet sdk
+\Add doughnut chart with spreadsheet sdk
+\Add header and footer for spreadsheet with spreadsheet sdk
+\Add image into existing spreadsheet with spreadsheet sdk
+\Add Image Stamp in PDF with PDF Extractor SDK
+\Add image to spreadsheet with spreadsheet sdk
+\Add images advanced with spreadsheet sdk
+\Add images to spreadsheet with spreadsheet sdk
+\Add line chart with spreadsheet sdk
+\Add pie chart with spreadsheet sdk
+\Add radar chart with spreadsheet sdk
+\Add rows into existing spreadsheet with spreadsheet sdk
+\Add stock chart with spreadsheet sdk
+\Add surface chart with spreadsheet sdk
+\Add xyscatter chart with spreadsheet sdk
+\Batch check folder agianst JSON settings with PDF Extractor SDK
+\Batch read barcodes to csv with barcode reader sdk
+\Batch read from files with barcode reader sdk
+\Calculate auto update on cell change with spreadsheet sdk
+\Calculate formula in cell with spreadsheet sdk
+\Calculate xirr function with spreadsheet sdk
+\Calculations and spreadsheet as database with spreadsheet sdk
+\Change cell width and height with spreadsheet sdk
+\Change column width and row height with spreadsheet sdk
+\Change data in existing spreadsheet with spreadsheet sdk
+\Change document properties with spreadsheet sdk
+\Check If OCR Is Required for PDF with PDF Extractor SDK
+\Compare PDF Documents with PDF Extractor SDK
+\Convert csv to sql server with spreadsheet sdk
+\Convert csv to xls with spreadsheet sdk
+\Convert ods to sql server with spreadsheet sdk
+\Convert PDF To CSV (Merge multiline text to table cell) with PDF Extractor SDK
+\Convert PDF To CSV By Pages with PDF Extractor SDK
+\Convert PDF To CSV with PDF Extractor SDK
+\Convert PDF To JSON With Images with PDF Extractor SDK
+\Convert PDF To JSON with PDF Extractor SDK
+\Convert PDF To XFDF with PDF Extractor SDK
+\Convert PDF To XLS with PDF Extractor SDK
+\Convert PDF To XLSX with PDF Extractor SDK
+\Convert PDF To XML With Images with PDF Extractor SDK
+\Convert PDF To XML with PDF Extractor SDK
+\Convert PDF XFA Form To XML with PDF Extractor SDK
+\Convert Protected PDF Document to XLS with PDF Extractor SDK
+\Convert Scanned PDF to CSV with PDF Extractor SDK
+\Convert Scanned PDF to JSON with PDF Extractor SDK
+\Convert Scanned PDF to Text with PDF Extractor SDK
+\Convert Scanned PDF to XML with PDF Extractor SDK
+\Convert template to xls with spreadsheet sdk
+\Convert txt to sql server with spreadsheet sdk
+\Convert xls to csv with spreadsheet sdk
+\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\Convert xls to sql server with spreadsheet sdk
+\Convert xls to txt with spreadsheet sdk
+\Convert xls to xlsx with spreadsheet sdk
+\Convert xls to xml and xml to xls with spreadsheet sdk
+\Convert xls to xml with spreadsheet sdk
+\Convert xlsx to sql server with spreadsheet sdk
+\Convert xml to xls with spreadsheet sdk
+\Copy range with spreadsheet sdk
+\Copy worksheet with spreadsheet sdk
+\Copypaste columns with spreadsheet sdk
+\Copypaste rows with spreadsheet sdk
+\Create hello world spreadsheet with spreadsheet sdk
+\Create worksheets with spreadsheet sdk
+\Create xlsx with spreadsheet sdk
+\Data Masking in PDF with PDF Extractor SDK
+\Decode australian post code barcode with barcode reader sdk
+\Decode aztec barcode with barcode reader sdk
+\Decode bookland barcode with barcode reader sdk
+\Decode codabar barcode with barcode reader sdk
+\Decode codablock f barcode with barcode reader sdk
+\Decode code 128 barcode with barcode reader sdk
+\Decode code 16k barcode with barcode reader sdk
+\Decode code 39 barcode with barcode reader sdk
+\Decode code 93 barcode with barcode reader sdk
+\Decode damaged code 128 barcode with barcode reader sdk
+\Decode damaged code 39 barcode with barcode reader sdk
+\Decode damaged datamatrix barcode with barcode reader sdk
+\Decode damaged qr code barcode with barcode reader sdk
+\Decode datamatrix barcode with barcode reader sdk
+\Decode deutsche post identcode barcode with barcode reader sdk
+\Decode deutsche post leitcode barcode with barcode reader sdk
+\Decode ean-128 barcode with barcode reader sdk
+\Decode ean-13 barcode with barcode reader sdk
+\Decode ean-14 barcode with barcode reader sdk
+\Decode ean-2 barcode with barcode reader sdk
+\Decode ean-5 barcode with barcode reader sdk
+\Decode ean-8 barcode with barcode reader sdk
+\Decode gs1 databar expanded barcode with barcode reader sdk
+\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\Decode gs1 databar limited barcode with barcode reader sdk
+\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\Decode gs1 databar stacked barcode with barcode reader sdk
+\Decode gs1 datamatrix barcode with barcode reader sdk
+\Decode gs1-128 barcode with barcode reader sdk
+\Decode intelligent mail barcode with barcode reader sdk
+\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\Decode isbn barcode with barcode reader sdk
+\Decode itf-14 barcode with barcode reader sdk
+\Decode jan-13 barcode with barcode reader sdk
+\Decode macro pdf417 barcode with barcode reader sdk
+\Decode maxicode barcode with barcode reader sdk
+\Decode micr from bank check barcode with barcode reader sdk
+\Decode numly barcode with barcode reader sdk
+\Decode page by page from tiff with barcode reader sdk
+\Decode patch code barcode with barcode reader sdk
+\Decode pdf417 barcode with barcode reader sdk
+\Decode pzn barcode with barcode reader sdk
+\Decode qr code barcode with barcode reader sdk
+\Decode qr code barcode with json with barcode reader sdk
+\Decode royal mail barcode with barcode reader sdk
+\Decode royal mail kix barcode with barcode reader sdk
+\Decode swiss post parcel barcode with barcode reader sdk
+\Decode truncated pdf417 barcode with barcode reader sdk
+\Decode upc-a barcode with barcode reader sdk
+\Decode upc-e barcode with barcode reader sdk
+\Decode usps sack label barcode with barcode reader sdk
+\Decode usps tray label barcode with barcode reader sdk
+\Decoding barcodes from pdf by pages with barcode reader sdk
+\Detect Lines in PDF with PDF Extractor SDK
+\Export results to xml, csv, txt with barcode reader sdk
+\Export to 2d array with spreadsheet sdk
+\Export to dataset with spreadsheet sdk
+\Export to datatable with spreadsheet sdk
+\Export to html with spreadsheet sdk
+\Export to jagged array with spreadsheet sdk
+\Export to json with spreadsheet sdk
+\Export to list with spreadsheet sdk
+\Export to pdf with spreadsheet sdk
+\Export to winforms datagrid with spreadsheet sdk
+\Extract Attachments from PDF with PDF Extractor SDK
+\Extract Audio from PDF with PDF Extractor SDK
+\Extract CSV from PDF and Fill Database (SQL Server) with PDF Extractor SDK
+\Extract Filled PDF Form Data with PDF Extractor SDK
+\Extract Images by Page from PDF with PDF Extractor SDK
+\Extract Images from PDF with PDF Extractor SDK
+\Extract PDF document Info with PDF Extractor SDK
+\Extract PDF Pages with PDF Extractor SDK
+\Extract PDF Text From Page Area with PDF Extractor SDK
+\Extract PDF text To Stream with PDF Extractor SDK
+\Extract Table Structure from PDF with PDF Extractor SDK
+\Extract Text By Columns from PDF with PDF Extractor SDK
+\Extract Text From Large PDF Document in Parallel Processing
+\Extract Text From PDF By Pages with PDF Extractor SDK
+\Extract Text from PDF with PDF Extractor SDK
+\Extract Video from PDF with PDF Extractor SDK
+\Find Email Addresses in PDF with Regex with PDF Extractor SDK
+\Find Keyword And Extract Page in PDF with PDF Extractor SDK
+\Find Keyword And Extract Text in PDF with PDF Extractor SDK
+\Find PDF Table And Extract As CSV with PDF Extractor SDK
+\Find PDF Table And Extract As XML with PDF Extractor SDK
+\Find Phone Number in PDF with Regex with PDF Extractor SDK
+\Find SSN in PDF with Regex with PDF Extractor SDK
+\Find Text in PDF using Regex with PDF Extractor SDK
+\Find Text in PDF With Hyphens with PDF Extractor SDK
+\Find Text in PDF with PDF Extractor SDK
+\Find Text in PDF with Smart Match with PDF Extractor SDK
+\Find US Address in PDF with Regex with PDF Extractor SDK
+\Font style in cell with spreadsheet sdk
+\Fonts available for cells with spreadsheet sdk
+\Freeze rows and columns with spreadsheet sdk
+\General example reading barcodes with barcode reader sdk
+\Generate invoice with spreadsheet sdk
+\Get cell color with spreadsheet sdk
+\Gui example for barcode reading with barcode reader sdk
+\Hidden formula with spreadsheet sdk
+\Hidden rows and columns with spreadsheet sdk
+\Image preprocessing filters with barcode reader sdk
+\Import from 2d array with spreadsheet sdk
+\Import from data table with spreadsheet sdk
+\Import from dataset with spreadsheet sdk
+\Import from jagged array with spreadsheet sdk
+\Import from json with spreadsheet sdk
+\Import from list with spreadsheet sdk
+\Import from winforms datagrid with spreadsheet sdk
+\Index PDF Documents In Folder with PDF Extractor SDK
+\Index PDF Files with PDF Extractor SDK
+\Insert page break with spreadsheet sdk
+\Interrupt barcode decoding processing with barcode reader sdk
+\Line styles in cells with spreadsheet sdk
+\Make Searchable PDF and Fix Rotated Pages with PDF Extractor SDK
+\Make Searchable PDF Discarding Existing Content with PDF Extractor SDK
+\Make Searchable PDF from Image with PDF Extractor SDK
+\Make Searchable PDF with PDF Extractor SDK
+\Make Unsearchable PDF with PDF Extractor SDK
+\Merge cells with spreadsheet sdk
+\Merge PDF Documents with PDF Extractor SDK
+\Merge Protected PDF Documents with PDF Extractor SDK
+\Merge two documents with spreadsheet sdk
+\OCR Analyser with PDF Extractor SDK
+\OCR With Best Dataset with PDF Extractor SDK
+\OCR With Fast Dataset with PDF Extractor SDK
+\OCR With Mean Dataset with PDF Extractor SDK
+\Optimize PDF with PDF Extractor SDK
+\Parallel barcode decoding with barcode reader sdk
+\PDF and OCR (Optical Character Recognition) with PDF Extractor SDK
+\PDF Batch Processing with PDF Extractor SDK
+\PDF files Parallel Processing with PDF Extractor SDK
+\PDF Invoice Parsing with PDF Extractor SDK
+\PDF-A Compatibility Test with PDF Extractor SDK
+\Read barcode from live video cam with barcode reader sdk
+\Read barcodes from live video cam (wpf) with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Read barcodes from tiff with barcode reader sdk
+\Read cell color with spreadsheet sdk
+\Read checkboxes with barcode reader sdk
+\Read csv file with spreadsheet sdk
+\Read date from cell with spreadsheet sdk
+\Read document properties with spreadsheet sdk
+\Read formula from cell with spreadsheet sdk
+\Read Hindi Text from PDF with PDF Extractor SDK
+\Read merged cells with spreadsheet sdk
+\Read number format in cell with spreadsheet sdk
+\Read ods (open office calc) files with spreadsheet sdk
+\Read Text From Noisy Image with PDF Extractor SDK
+\Read txt (tab delimited) with spreadsheet sdk
+\Read Values from PDF Form Fields with PDF Extractor SDK
+\Read vcard from qr code with barcode reader sdk
+\Read xlsx (office 2007) files with spreadsheet sdk
+\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\Reduce cpu usage with barcode reader sdk
+\Reduce Memory Usage for PDF to Text with PDF Extractor SDK
+\Remove columns from existing spreadsheet with spreadsheet sdk
+\Remove Empty Pages from PDF with PDF Extractor SDK
+\Remove rows from existing spreadsheet with spreadsheet sdk
+\Remove Text from PDF with PDF Extractor SDK
+\Rename worksheet with spreadsheet sdk
+\Repair Text in PDF with PDF Extractor SDK
+\Rotate PDF Document with PDF Extractor SDK
+\Search text with spreadsheet sdk
+\SearchablePDFMaker Progress Indication with PDF Extractor SDK
+\Select active worksheet with spreadsheet sdk
+\Set barcode decoding profiles with barcode reader sdk
+\Set cell alignment with spreadsheet sdk
+\Set cell formula with spreadsheet sdk
+\Set Configuration Profiles with PDF Extractor SDK
+\Set date formatting in cells with spreadsheet sdk
+\Set number format in cells with spreadsheet sdk
+\Set rich text formatting in cell with spreadsheet sdk
+\Set shrinktofit for cells with spreadsheet sdk
+\Sort range with spreadsheet sdk
+\Split pdf document by found barcode with barcode reader sdk
+\Split PDF Document with PDF Extractor SDK
+\Split Protected PDF Document with PDF Extractor SDK
+\Swap cells and their values with spreadsheet sdk
+\Swap worksheets with spreadsheet sdk
+\TextExtractor Progress Indication with PDF Extractor SDK
+\Unmerge cells with spreadsheet sdk
+\Use custom functions with spreadsheet sdk
+\Use rich formatting to create report with spreadsheet sdk
+\Use special cells with spreadsheet sdk
+\Use unicode text with spreadsheet sdk
+\Validate cell if value is in range with spreadsheet sdk
+\Validate cells with dates with spreadsheet sdk
+\Validate data in cell and mark wrong with color with spreadsheet sdk
+\View spreadsheet with spreadsheet sdk
+\Wpf ui example for barcode reading with barcode reader sdk
+\ZUGFeRD Invoice Extraction with PDF Extractor SDK
+\Batch check folder agianst JSON settings with PDF Extractor SDK\InputFiles
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\Check If OCR Is Required for PDF with PDF Extractor SDK\InputFiles
+\Index PDF Documents In Folder with PDF Extractor SDK\Files
