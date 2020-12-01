@@ -38,6 +38,8 @@
 \Convert csv to sql server with spreadsheet sdk
 \Convert csv to xls with spreadsheet sdk
 \Convert ods to sql server with spreadsheet sdk
+\Convert PDF to Black and White
+\Convert PDF to Black and White Excluding some page
 \Convert PDF To CSV (Merge multiline text to table cell) with PDF Extractor SDK
 \Convert PDF To CSV By Pages with PDF Extractor SDK
 \Convert PDF To CSV with PDF Extractor SDK
